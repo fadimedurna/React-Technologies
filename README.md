@@ -1,6 +1,6 @@
 # React Related Technologies
 
-Welcome to the Works-on-React-and-Related-Technologies repository! This repository contains various React projects, each residing in different branches. The purpose of this repository is to showcase different applications, components, and utilities built using React and related technologies.
+Welcome to the React_Technologies repository! This repository contains various React projects, each residing in different branches. The purpose of this repository is to showcase different applications, components, and utilities built using React and related technologies.
 
 ## Repository Structure
 ![Ekran Görüntüsü (344)](https://github.com/fadimedurna/Works-on-React-and-Related-Technologies/assets/64929089/7e8f577d-014d-412f-ac81-0af15ec82264)
